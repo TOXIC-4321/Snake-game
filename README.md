@@ -51,7 +51,7 @@ snake-game/
 1. Download or clone this repository:
 
 ```
-[git clone https://github.com/your-username/snake-game.git](https://github.com/TOXIC-4321/Snake-game.git)
+(https://github.com/TOXIC-4321/Snake-game.git)
 ```
 
 2. Open the folder
